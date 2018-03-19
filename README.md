@@ -1,6 +1,5 @@
 
 # WeatherPy
-HW#6
 
 In this exercise I utilized Python libraries - requests, citipy, pandas, numpy, matplotlib.pyplot, datetime - JSON traversals, and the OpenWeatherMap API to answer a fundamental question: "What's the weather like as we approach the equator?" Weather data were collected for over five hundred randomly selected cities across the world.
 
